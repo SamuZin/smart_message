@@ -19,7 +19,7 @@ The backend is built with **C#** and **ASP.NET Core**, ensuring a scalable and m
 
 For a more detailed view of the system architecture and API flow, you can explore the dashboard below.
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVIXwZJ7Q=/?moveToViewport=-1144,-1175,5103,2532&embedId=991078136096" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<img width="768" height="432" src="https://miro.com/app/live-embed/uXjVIXwZJ7Q=/?moveToViewport=-1144,-1175,5103,2532&embedId=991078136096" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen />
 
 ## API Endpoints
 
