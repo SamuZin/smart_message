@@ -2,9 +2,9 @@
 {
     public class Event
     {
-        DateTime Date { get; set; }
-        string? EventName { get; set; }
-        string? EventDescription { get; set; }
-        string? EventTag { get; set; }
+        public DateTime Date { get; set; }
+        public string EventName { get; set; }
+        public string EventDescription { get; set; }
+        public string EventTag { get; set; }
     }
 }
